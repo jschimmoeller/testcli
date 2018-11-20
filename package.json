@@ -1,0 +1,23 @@
+{
+  "name": "testcli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index",
+  "bin": {
+    "james": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschimmoeller/testcli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jschimmoeller/testcli/issues"
+  },
+  "homepage": "https://github.com/jschimmoeller/testcli#readme"
+}
