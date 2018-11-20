@@ -1,10 +1,10 @@
 {
   "name": "testcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index",
   "bin": {
-    "james": "./cli.js"
+    "testcli": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
