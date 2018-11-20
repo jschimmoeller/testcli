@@ -1,1 +1,2 @@
-console.log('cli executing')
+#!/usr/bin/env node
+console.log('cli executing');
